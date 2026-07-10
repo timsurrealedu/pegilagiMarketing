@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { access, copyFile, mkdir, readFile, writeFile } from "node:fs/promises";
 import { spawn } from "node:child_process";
 import path from "node:path";
 import { officialAssets } from "./assets.js";
@@ -35,6 +35,8 @@ export async function renderItem({ id, outDir = "out" }) {
 
   const clips = await synthesizeSceneAudio(item, workDir);
   const voice = await buildVoiceTrack(clips, workDir);
+  const outVoice = path.join(outDir, "audio", `${item.id}.wav`);
+  await copyFile(voice, outVoice);
   const ass = path.join(workDir, "captions.ass");
   await writeFile(ass, buildAss(item, clips), "utf8");
 
@@ -42,17 +44,24 @@ export async function renderItem({ id, outDir = "out" }) {
   await run(ffmpeg, buildFfmpegArgs({ item, voice, ass, outVideo }));
 
   item.assets.status = "rendered";
-  item.assets.voiceover = voice;
+  item.assets.voiceover = outVoice;
   item.assets.video = outVideo;
   item.assets.renderPlan = buildRenderPlan(item);
   item.status = "rendered_needs_approval";
-  await writeFile(path.join(outDir, "content", `${id}.json`), `${JSON.stringify(item, null, 2)}\n`, "utf8");
+  await writeRenderSidecar(outDir, item);
   return item;
 }
 
 export async function renderNext({ outDir = "out" } = {}) {
   const manifest = JSON.parse(await readFile(path.join(outDir, "upload-manifest.json"), "utf8"));
-  const next = manifest.items.find((item) => item.status === "needs_approval" || item.status === "render_pending") ?? manifest.items[0];
+  let next = null;
+  for (const item of manifest.items) {
+    if (item.status !== "needs_approval" && item.status !== "render_pending") continue;
+    if (!(await exists(path.join(outDir, "rendered", `${item.id}.json`)))) {
+      next = item;
+      break;
+    }
+  }
   if (!next) throw new Error("no content items to render");
   return renderItem({ id: next.id, outDir });
 }
@@ -109,6 +118,27 @@ function buildFfmpegArgs({ item, voice, ass, outVideo }) {
     "-shortest",
     outVideo
   ];
+}
+
+async function writeRenderSidecar(outDir, item) {
+  const dir = path.join(outDir, "rendered");
+  await mkdir(dir, { recursive: true });
+  await writeFile(path.join(dir, `${item.id}.json`), `${JSON.stringify({
+    id: item.id,
+    status: item.status,
+    video: item.assets.video,
+    voiceover: item.assets.voiceover,
+    renderedAt: new Date().toISOString()
+  }, null, 2)}\n`, "utf8");
+}
+
+async function exists(file) {
+  try {
+    await access(file);
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 function buildAss(item, clips) {

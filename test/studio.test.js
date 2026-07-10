@@ -66,6 +66,18 @@ test("buildConcatRows writes absolute paths for ffmpeg concat files", () => {
   assert.match(rows[0], /^file '([A-Za-z]:\/|\/)/);
 });
 
+test("render plan points at ignored media output paths", () => {
+  const plan = buildRenderPlan({
+    id: "demo",
+    assets: {
+      voiceover: "out/audio/demo.wav",
+      video: "out/videos/demo.mp4"
+    }
+  });
+  assert.equal(plan.voice, "out/audio/demo.wav");
+  assert.equal(plan.video, "out/videos/demo.mp4");
+});
+
 async function tempDir() {
   return mkdtemp(path.join(os.tmpdir(), "pegilagi-studio-"));
 }

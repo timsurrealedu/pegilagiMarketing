@@ -3,6 +3,8 @@ node_modules/
 *.log
 out/audio/*
 out/videos/*
+out/render-work/
+out/rendered/
 !out/audio/.gitkeep
 !out/videos/.gitkeep
 *.mp3
