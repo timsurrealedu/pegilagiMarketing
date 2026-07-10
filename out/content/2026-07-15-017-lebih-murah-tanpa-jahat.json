@@ -1,0 +1,78 @@
+{
+  "id": "2026-07-15-017-lebih-murah-tanpa-jahat",
+  "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+  "pillar": {
+    "id": "lebih-murah-tanpa-jahat",
+    "title": "Lebih Murah Tanpa Jahat",
+    "stage": "download"
+  },
+  "hook": "Murah itu enak. Tapi murah yang adil itu lebih enak.",
+  "hookType": "price",
+  "emotionalLever": "smart-saving",
+  "targetAudience": "Indonesia umum, 16+, pengguna transportasi online dan calon driver",
+  "persona": {
+    "name": "Pegi",
+    "voice": "hangat, rakyat, sedikit jenaka, Bahasa Indonesia natural",
+    "audience": "Indonesia umum, 16+, pengguna transportasi online dan calon driver",
+    "cta": "Download Pegilagi"
+  },
+  "script": "Murah itu enak. Tapi murah yang adil itu lebih enak. Pegilagi dibuat agar pengguna bisa lebih hemat sampai estimasi Rp24.000 per minggu. Bedanya, tarif perjalanan tetap 100% untuk driver. Kalau bisa hemat tanpa mengorbankan ojol, kenapa tidak? Download Pegilagi.",
+  "scenes": [
+    {
+      "scene": 1,
+      "durationSeconds": 2,
+      "text": "Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "visualPrompt": "commuter compares fares"
+    },
+    {
+      "scene": 2,
+      "durationSeconds": 8,
+      "text": "Pegilagi dibuat agar pengguna bisa lebih hemat sampai estimasi Rp24.000 per minggu.",
+      "visualPrompt": "wallet savings"
+    },
+    {
+      "scene": 3,
+      "durationSeconds": 8,
+      "text": "Bedanya, tarif perjalanan tetap 100% untuk driver.",
+      "visualPrompt": "driver payout notification"
+    },
+    {
+      "scene": 4,
+      "durationSeconds": 5,
+      "text": "Kalau bisa hemat tanpa mengorbankan ojol, kenapa tidak? Download Pegilagi.",
+      "visualPrompt": "phone with Pegilagi CTA"
+    }
+  ],
+  "subtitles": "1\n00:00:00,000 --> 00:00:02,000\nMurah itu enak. Tapi murah yang adil itu lebih enak.\n\n2\n00:00:02,000 --> 00:00:10,000\nPegilagi dibuat agar pengguna bisa lebih hemat sampai estimasi Rp24.000 per minggu.\n\n3\n00:00:10,000 --> 00:00:18,000\nBedanya, tarif perjalanan tetap 100% untuk driver.\n\n4\n00:00:18,000 --> 00:00:23,000\nKalau bisa hemat tanpa mengorbankan ojol, kenapa tidak? Download Pegilagi.\n",
+  "cta": "Download Pegilagi",
+  "channels": [
+    "tiktok",
+    "instagram_reels",
+    "youtube_shorts"
+  ],
+  "scheduledDate": "2026-07-15",
+  "status": "needs_approval",
+  "claims": [
+    "100% tarif perjalanan untuk driver",
+    "dibuat agar pengguna bisa lebih hemat"
+  ],
+  "assets": {
+    "status": "spec-only",
+    "aspectRatio": "9:16",
+    "voiceover": "out/audio/2026-07-15-017-lebih-murah-tanpa-jahat.mp3",
+    "video": "out/videos/2026-07-15-017-lebih-murah-tanpa-jahat.mp4",
+    "storyboard": "out/storyboards/2026-07-15-017-lebih-murah-tanpa-jahat.html"
+  },
+  "analytics": {
+    "retention": 0,
+    "shares": 0,
+    "commentSentiment": 0,
+    "downloadClicks": 0
+  },
+  "variantOf": null,
+  "safety": {
+    "ok": true,
+    "violations": [],
+    "note": "Gunakan klaim tegas tapi aman: 100% tarif perjalanan untuk driver; dibuat agar pengguna bisa lebih hemat."
+  }
+}

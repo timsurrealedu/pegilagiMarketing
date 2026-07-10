@@ -1,0 +1,13 @@
+{
+  "name": "pegilagi-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "node src/cli.js",
+    "test": "node --test"
+  },
+  "bin": {
+    "pegilagi-studio": "src/cli.js"
+  }
+}

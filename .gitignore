@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+out/audio/*
+out/videos/*
+!out/audio/.gitkeep
+!out/videos/.gitkeep
+*.mp3
+*.mp4
+*.mov
+*.wav

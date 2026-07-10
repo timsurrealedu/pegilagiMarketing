@@ -1,0 +1,50 @@
+import { mkdtemp, rm } from "node:fs/promises";
+import os from "node:os";
+import path from "node:path";
+import test from "node:test";
+import assert from "node:assert/strict";
+import { exportLifeOS, generateBatch, generateSchedule, validateAll } from "../src/studio.js";
+
+test("generateBatch creates safe content assets", async () => {
+  const dir = await tempDir();
+  try {
+    const items = await generateBatch({ count: 10, outDir: dir });
+    assert.equal(items.length, 10);
+    assert.ok(items.every((item) => item.channels.includes("tiktok")));
+    assert.ok(items.every((item) => item.script.includes("Download Pegilagi")));
+    assert.ok(items.every((item) => item.safety.ok));
+    const safety = await validateAll({ outDir: dir });
+    assert.ok(safety.every((result) => result.ok));
+  } finally {
+    await rm(dir, { recursive: true, force: true });
+  }
+});
+
+test("generateSchedule follows 30 day multi upload shape", async () => {
+  const dir = await tempDir();
+  try {
+    const schedule = await generateSchedule({ days: 30, perDay: 3, outDir: dir });
+    assert.equal(schedule.length, 90);
+    assert.deepEqual(schedule[0].channels, ["tiktok", "instagram_reels", "youtube_shorts"]);
+    assert.equal(schedule[3].slot, 1);
+  } finally {
+    await rm(dir, { recursive: true, force: true });
+  }
+});
+
+test("exportLifeOS contains calendar and approval queue", async () => {
+  const dir = await tempDir();
+  try {
+    await generateBatch({ count: 3, outDir: dir });
+    const payload = await exportLifeOS({ outDir: dir });
+    assert.equal(payload.calendar.length, 3);
+    assert.equal(payload.approvalQueue.length, 3);
+    assert.ok(payload.backlog.length >= 7);
+  } finally {
+    await rm(dir, { recursive: true, force: true });
+  }
+});
+
+async function tempDir() {
+  return mkdtemp(path.join(os.tmpdir(), "pegilagi-studio-"));
+}

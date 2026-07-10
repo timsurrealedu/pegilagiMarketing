@@ -1,0 +1,78 @@
+{
+  "id": "2026-07-26-050-ojol-dapat-100",
+  "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+  "pillar": {
+    "id": "ojol-dapat-100",
+    "title": "Ojol Dapat 100%",
+    "stage": "proof"
+  },
+  "hook": "Buat sebagian orang, satu order cuma angka kecil.",
+  "hookType": "driver-pov",
+  "emotionalLever": "empathy",
+  "targetAudience": "Indonesia umum, 16+, pengguna transportasi online dan calon driver",
+  "persona": {
+    "name": "Pegi",
+    "voice": "hangat, rakyat, sedikit jenaka, Bahasa Indonesia natural",
+    "audience": "Indonesia umum, 16+, pengguna transportasi online dan calon driver",
+    "cta": "Download Pegilagi"
+  },
+  "script": "Buat sebagian orang, satu order cuma angka kecil. Buat driver, Rp14.500 bisa jadi bensin, makan siang, atau bekal pulang. Pegilagi dibuat supaya tarif perjalanan masuk 100% untuk driver. Naik lebih hemat, bantu ojol lebih kuat. Download Pegilagi.",
+  "scenes": [
+    {
+      "scene": 1,
+      "durationSeconds": 2,
+      "text": "Buat sebagian orang, satu order cuma angka kecil.",
+      "visualPrompt": "driver waiting after rain"
+    },
+    {
+      "scene": 2,
+      "durationSeconds": 8,
+      "text": "Buat driver, Rp14.500 bisa jadi bensin, makan siang, atau bekal pulang.",
+      "visualPrompt": "helmet and fuel meter"
+    },
+    {
+      "scene": 3,
+      "durationSeconds": 8,
+      "text": "Pegilagi dibuat supaya tarif perjalanan masuk 100% untuk driver.",
+      "visualPrompt": "family dinner table"
+    },
+    {
+      "scene": 4,
+      "durationSeconds": 5,
+      "text": "Naik lebih hemat, bantu ojol lebih kuat. Download Pegilagi.",
+      "visualPrompt": "driver accepts Pegilagi order"
+    }
+  ],
+  "subtitles": "1\n00:00:00,000 --> 00:00:02,000\nBuat sebagian orang, satu order cuma angka kecil.\n\n2\n00:00:02,000 --> 00:00:10,000\nBuat driver, Rp14.500 bisa jadi bensin, makan siang, atau bekal pulang.\n\n3\n00:00:10,000 --> 00:00:18,000\nPegilagi dibuat supaya tarif perjalanan masuk 100% untuk driver.\n\n4\n00:00:18,000 --> 00:00:23,000\nNaik lebih hemat, bantu ojol lebih kuat. Download Pegilagi.\n",
+  "cta": "Download Pegilagi",
+  "channels": [
+    "tiktok",
+    "instagram_reels",
+    "youtube_shorts"
+  ],
+  "scheduledDate": "2026-07-26",
+  "status": "needs_approval",
+  "claims": [
+    "100% tarif perjalanan untuk driver",
+    "dibuat agar pengguna bisa lebih hemat"
+  ],
+  "assets": {
+    "status": "spec-only",
+    "aspectRatio": "9:16",
+    "voiceover": "out/audio/2026-07-26-050-ojol-dapat-100.mp3",
+    "video": "out/videos/2026-07-26-050-ojol-dapat-100.mp4",
+    "storyboard": "out/storyboards/2026-07-26-050-ojol-dapat-100.html"
+  },
+  "analytics": {
+    "retention": 0,
+    "shares": 0,
+    "commentSentiment": 0,
+    "downloadClicks": 0
+  },
+  "variantOf": null,
+  "safety": {
+    "ok": true,
+    "violations": [],
+    "note": "Gunakan klaim tegas tapi aman: 100% tarif perjalanan untuk driver; dibuat agar pengguna bisa lebih hemat."
+  }
+}

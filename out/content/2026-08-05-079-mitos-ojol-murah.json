@@ -1,0 +1,78 @@
+{
+  "id": "2026-08-05-079-mitos-ojol-murah",
+  "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+  "pillar": {
+    "id": "mitos-ojol-murah",
+    "title": "Mitos Ojol Murah",
+    "stage": "proof"
+  },
+  "hook": "Mitos: ojek online murah pasti bikin driver tekor.",
+  "hookType": "myth",
+  "emotionalLever": "curiosity",
+  "targetAudience": "Indonesia umum, 16+, pengguna transportasi online dan calon driver",
+  "persona": {
+    "name": "Pegi",
+    "voice": "hangat, rakyat, sedikit jenaka, Bahasa Indonesia natural",
+    "audience": "Indonesia umum, 16+, pengguna transportasi online dan calon driver",
+    "cta": "Download Pegilagi"
+  },
+  "script": "Mitos: ojek online murah pasti bikin driver tekor. Faktanya, masalahnya bukan cuma harga. Masalahnya potongan. Pegilagi mengambil posisi sederhana: tarif perjalanan 100% untuk driver. Lebih transparan untuk kamu, lebih lega untuk ojol. Download Pegilagi.",
+  "scenes": [
+    {
+      "scene": 1,
+      "durationSeconds": 2,
+      "text": "Mitos: ojek online murah pasti bikin driver tekor.",
+      "visualPrompt": "myth stamp"
+    },
+    {
+      "scene": 2,
+      "durationSeconds": 8,
+      "text": "Faktanya, masalahnya bukan cuma harga. Masalahnya potongan.",
+      "visualPrompt": "simple fee diagram"
+    },
+    {
+      "scene": 3,
+      "durationSeconds": 8,
+      "text": "Pegilagi mengambil posisi sederhana: tarif perjalanan 100% untuk driver.",
+      "visualPrompt": "driver payout card"
+    },
+    {
+      "scene": 4,
+      "durationSeconds": 5,
+      "text": "Lebih transparan untuk kamu, lebih lega untuk ojol. Download Pegilagi.",
+      "visualPrompt": "clear Pegilagi brand frame"
+    }
+  ],
+  "subtitles": "1\n00:00:00,000 --> 00:00:02,000\nMitos: ojek online murah pasti bikin driver tekor.\n\n2\n00:00:02,000 --> 00:00:10,000\nFaktanya, masalahnya bukan cuma harga. Masalahnya potongan.\n\n3\n00:00:10,000 --> 00:00:18,000\nPegilagi mengambil posisi sederhana: tarif perjalanan 100% untuk driver.\n\n4\n00:00:18,000 --> 00:00:23,000\nLebih transparan untuk kamu, lebih lega untuk ojol. Download Pegilagi.\n",
+  "cta": "Download Pegilagi",
+  "channels": [
+    "tiktok",
+    "instagram_reels",
+    "youtube_shorts"
+  ],
+  "scheduledDate": "2026-08-05",
+  "status": "needs_approval",
+  "claims": [
+    "100% tarif perjalanan untuk driver",
+    "dibuat agar pengguna bisa lebih hemat"
+  ],
+  "assets": {
+    "status": "spec-only",
+    "aspectRatio": "9:16",
+    "voiceover": "out/audio/2026-08-05-079-mitos-ojol-murah.mp3",
+    "video": "out/videos/2026-08-05-079-mitos-ojol-murah.mp4",
+    "storyboard": "out/storyboards/2026-08-05-079-mitos-ojol-murah.html"
+  },
+  "analytics": {
+    "retention": 0,
+    "shares": 0,
+    "commentSentiment": 0,
+    "downloadClicks": 0
+  },
+  "variantOf": null,
+  "safety": {
+    "ok": true,
+    "violations": [],
+    "note": "Gunakan klaim tegas tapi aman: 100% tarif perjalanan untuk driver; dibuat agar pengguna bisa lebih hemat."
+  }
+}

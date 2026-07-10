@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hujan turun, jalan padat, order kecil tetap diambil.
+
+2
+00:00:02,000 --> 00:00:10,000
+Di balik jaket ojol, ada orang yang sedang ngejar cukup untuk hari ini.
+
+3
+00:00:10,000 --> 00:00:18,000
+Pegilagi ingin perjalanan murah tetap punya rasa hormat: 100% tarif perjalanan untuk driver.
+
+4
+00:00:18,000 --> 00:00:23,000
+Karena kota bergerak bukan cuma oleh aplikasi, tapi oleh orangnya. Download Pegilagi.

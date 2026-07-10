@@ -1,0 +1,78 @@
+{
+  "id": "2026-07-31-064-uangmu-ke-mana",
+  "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+  "pillar": {
+    "id": "uangmu-ke-mana",
+    "title": "Uangmu Ke Mana?",
+    "stage": "awareness"
+  },
+  "hook": "Pernah mikir uang ongkos kamu larinya ke mana?",
+  "hookType": "transparency",
+  "emotionalLever": "fairness",
+  "targetAudience": "Indonesia umum, 16+, pengguna transportasi online dan calon driver",
+  "persona": {
+    "name": "Pegi",
+    "voice": "hangat, rakyat, sedikit jenaka, Bahasa Indonesia natural",
+    "audience": "Indonesia umum, 16+, pengguna transportasi online dan calon driver",
+    "cta": "Download Pegilagi"
+  },
+  "script": "Pernah mikir uang ongkos kamu larinya ke mana? Di Pegilagi, kalau perjalananmu Rp19.500, 100% tarif perjalanan masuk ke driver: Rp19.500. Buat kamu tetap hemat. Buat ojol, hasil kerja terasa utuh. Pilih yang murah, pilih yang adil. Download Pegilagi.",
+  "scenes": [
+    {
+      "scene": 1,
+      "durationSeconds": 2,
+      "text": "Pernah mikir uang ongkos kamu larinya ke mana?",
+      "visualPrompt": "close-up app fare receipt"
+    },
+    {
+      "scene": 2,
+      "durationSeconds": 8,
+      "text": "Di Pegilagi, kalau perjalananmu Rp19.500, 100% tarif perjalanan masuk ke driver: Rp19.500.",
+      "visualPrompt": "split fare to driver"
+    },
+    {
+      "scene": 3,
+      "durationSeconds": 8,
+      "text": "Buat kamu tetap hemat. Buat ojol, hasil kerja terasa utuh.",
+      "visualPrompt": "smiling driver receives full fare"
+    },
+    {
+      "scene": 4,
+      "durationSeconds": 5,
+      "text": "Pilih yang murah, pilih yang adil. Download Pegilagi.",
+      "visualPrompt": "Pegilagi download screen"
+    }
+  ],
+  "subtitles": "1\n00:00:00,000 --> 00:00:02,000\nPernah mikir uang ongkos kamu larinya ke mana?\n\n2\n00:00:02,000 --> 00:00:10,000\nDi Pegilagi, kalau perjalananmu Rp19.500, 100% tarif perjalanan masuk ke driver: Rp19.500.\n\n3\n00:00:10,000 --> 00:00:18,000\nBuat kamu tetap hemat. Buat ojol, hasil kerja terasa utuh.\n\n4\n00:00:18,000 --> 00:00:23,000\nPilih yang murah, pilih yang adil. Download Pegilagi.\n",
+  "cta": "Download Pegilagi",
+  "channels": [
+    "tiktok",
+    "instagram_reels",
+    "youtube_shorts"
+  ],
+  "scheduledDate": "2026-07-31",
+  "status": "needs_approval",
+  "claims": [
+    "100% tarif perjalanan untuk driver",
+    "dibuat agar pengguna bisa lebih hemat"
+  ],
+  "assets": {
+    "status": "spec-only",
+    "aspectRatio": "9:16",
+    "voiceover": "out/audio/2026-07-31-064-uangmu-ke-mana.mp3",
+    "video": "out/videos/2026-07-31-064-uangmu-ke-mana.mp4",
+    "storyboard": "out/storyboards/2026-07-31-064-uangmu-ke-mana.html"
+  },
+  "analytics": {
+    "retention": 0,
+    "shares": 0,
+    "commentSentiment": 0,
+    "downloadClicks": 0
+  },
+  "variantOf": null,
+  "safety": {
+    "ok": true,
+    "violations": [],
+    "note": "Gunakan klaim tegas tapi aman: 100% tarif perjalanan untuk driver; dibuat agar pengguna bisa lebih hemat."
+  }
+}

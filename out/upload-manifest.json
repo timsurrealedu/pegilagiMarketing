@@ -1,0 +1,1630 @@
+{
+  "mode": "approval-assisted",
+  "channels": [
+    "tiktok",
+    "instagram_reels",
+    "youtube_shorts"
+  ],
+  "items": [
+    {
+      "id": "2026-07-10-001-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-10",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-10-001-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-10-001-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-10-001-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-10-001-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-10-001-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-10-002-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-10",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-10-002-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-10-002-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-10-002-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-10-002-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-10-002-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-10-003-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-10",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-10-003-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-10-003-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-10-003-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-10-003-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-10-003-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-11-004-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-11",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-11-004-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-11-004-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-11-004-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-11-004-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-11-004-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-11-005-cerita-jalanan-indonesia",
+      "title": "Cerita Jalanan Indonesia: Hujan turun, jalan padat, order kecil tetap diambil.",
+      "scheduledDate": "2026-07-11",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-11-005-cerita-jalanan-indonesia.json",
+        "script": "out/scripts/2026-07-11-005-cerita-jalanan-indonesia.txt",
+        "subtitles": "out/subtitles/2026-07-11-005-cerita-jalanan-indonesia.srt",
+        "storyboard": "out/storyboards/2026-07-11-005-cerita-jalanan-indonesia.html",
+        "video": "out/videos/2026-07-11-005-cerita-jalanan-indonesia.mp4"
+      }
+    },
+    {
+      "id": "2026-07-11-006-gerakan-pilih-adil",
+      "title": "Gerakan Pilih Adil: Ini bukan soal melawan siapa-siapa.",
+      "scheduledDate": "2026-07-11",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-11-006-gerakan-pilih-adil.json",
+        "script": "out/scripts/2026-07-11-006-gerakan-pilih-adil.txt",
+        "subtitles": "out/subtitles/2026-07-11-006-gerakan-pilih-adil.srt",
+        "storyboard": "out/storyboards/2026-07-11-006-gerakan-pilih-adil.html",
+        "video": "out/videos/2026-07-11-006-gerakan-pilih-adil.mp4"
+      }
+    },
+    {
+      "id": "2026-07-12-007-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-12",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-12-007-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-12-007-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-12-007-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-12-007-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-12-007-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-12-008-tantangan-7-hari",
+      "title": "Tantangan 7 Hari Naik Pegilagi: Coba tantangan 7 hari naik Pegilagi.",
+      "scheduledDate": "2026-07-12",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-12-008-tantangan-7-hari.json",
+        "script": "out/scripts/2026-07-12-008-tantangan-7-hari.txt",
+        "subtitles": "out/subtitles/2026-07-12-008-tantangan-7-hari.srt",
+        "storyboard": "out/storyboards/2026-07-12-008-tantangan-7-hari.html",
+        "video": "out/videos/2026-07-12-008-tantangan-7-hari.mp4"
+      }
+    },
+    {
+      "id": "2026-07-12-009-mitos-ojol-murah",
+      "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+      "scheduledDate": "2026-07-12",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-12-009-mitos-ojol-murah.json",
+        "script": "out/scripts/2026-07-12-009-mitos-ojol-murah.txt",
+        "subtitles": "out/subtitles/2026-07-12-009-mitos-ojol-murah.srt",
+        "storyboard": "out/storyboards/2026-07-12-009-mitos-ojol-murah.html",
+        "video": "out/videos/2026-07-12-009-mitos-ojol-murah.mp4"
+      }
+    },
+    {
+      "id": "2026-07-13-010-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-13",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-13-010-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-13-010-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-13-010-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-13-010-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-13-010-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-13-011-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-13",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-13-011-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-13-011-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-13-011-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-13-011-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-13-011-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-13-012-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-13",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-13-012-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-13-012-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-13-012-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-13-012-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-13-012-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-14-013-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-14",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-14-013-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-14-013-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-14-013-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-14-013-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-14-013-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-14-014-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-14",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-14-014-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-14-014-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-14-014-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-14-014-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-14-014-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-14-015-cerita-jalanan-indonesia",
+      "title": "Cerita Jalanan Indonesia: Hujan turun, jalan padat, order kecil tetap diambil.",
+      "scheduledDate": "2026-07-14",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-14-015-cerita-jalanan-indonesia.json",
+        "script": "out/scripts/2026-07-14-015-cerita-jalanan-indonesia.txt",
+        "subtitles": "out/subtitles/2026-07-14-015-cerita-jalanan-indonesia.srt",
+        "storyboard": "out/storyboards/2026-07-14-015-cerita-jalanan-indonesia.html",
+        "video": "out/videos/2026-07-14-015-cerita-jalanan-indonesia.mp4"
+      }
+    },
+    {
+      "id": "2026-07-15-016-gerakan-pilih-adil",
+      "title": "Gerakan Pilih Adil: Ini bukan soal melawan siapa-siapa.",
+      "scheduledDate": "2026-07-15",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-15-016-gerakan-pilih-adil.json",
+        "script": "out/scripts/2026-07-15-016-gerakan-pilih-adil.txt",
+        "subtitles": "out/subtitles/2026-07-15-016-gerakan-pilih-adil.srt",
+        "storyboard": "out/storyboards/2026-07-15-016-gerakan-pilih-adil.html",
+        "video": "out/videos/2026-07-15-016-gerakan-pilih-adil.mp4"
+      }
+    },
+    {
+      "id": "2026-07-15-017-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-15",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-15-017-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-15-017-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-15-017-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-15-017-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-15-017-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-15-018-tantangan-7-hari",
+      "title": "Tantangan 7 Hari Naik Pegilagi: Coba tantangan 7 hari naik Pegilagi.",
+      "scheduledDate": "2026-07-15",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-15-018-tantangan-7-hari.json",
+        "script": "out/scripts/2026-07-15-018-tantangan-7-hari.txt",
+        "subtitles": "out/subtitles/2026-07-15-018-tantangan-7-hari.srt",
+        "storyboard": "out/storyboards/2026-07-15-018-tantangan-7-hari.html",
+        "video": "out/videos/2026-07-15-018-tantangan-7-hari.mp4"
+      }
+    },
+    {
+      "id": "2026-07-16-019-mitos-ojol-murah",
+      "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+      "scheduledDate": "2026-07-16",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-16-019-mitos-ojol-murah.json",
+        "script": "out/scripts/2026-07-16-019-mitos-ojol-murah.txt",
+        "subtitles": "out/subtitles/2026-07-16-019-mitos-ojol-murah.srt",
+        "storyboard": "out/storyboards/2026-07-16-019-mitos-ojol-murah.html",
+        "video": "out/videos/2026-07-16-019-mitos-ojol-murah.mp4"
+      }
+    },
+    {
+      "id": "2026-07-16-020-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-16",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-16-020-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-16-020-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-16-020-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-16-020-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-16-020-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-16-021-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-16",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-16-021-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-16-021-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-16-021-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-16-021-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-16-021-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-17-022-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-17",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-17-022-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-17-022-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-17-022-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-17-022-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-17-022-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-17-023-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-17",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-17-023-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-17-023-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-17-023-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-17-023-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-17-023-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-17-024-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-17",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-17-024-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-17-024-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-17-024-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-17-024-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-17-024-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-18-025-cerita-jalanan-indonesia",
+      "title": "Cerita Jalanan Indonesia: Hujan turun, jalan padat, order kecil tetap diambil.",
+      "scheduledDate": "2026-07-18",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-18-025-cerita-jalanan-indonesia.json",
+        "script": "out/scripts/2026-07-18-025-cerita-jalanan-indonesia.txt",
+        "subtitles": "out/subtitles/2026-07-18-025-cerita-jalanan-indonesia.srt",
+        "storyboard": "out/storyboards/2026-07-18-025-cerita-jalanan-indonesia.html",
+        "video": "out/videos/2026-07-18-025-cerita-jalanan-indonesia.mp4"
+      }
+    },
+    {
+      "id": "2026-07-18-026-gerakan-pilih-adil",
+      "title": "Gerakan Pilih Adil: Ini bukan soal melawan siapa-siapa.",
+      "scheduledDate": "2026-07-18",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-18-026-gerakan-pilih-adil.json",
+        "script": "out/scripts/2026-07-18-026-gerakan-pilih-adil.txt",
+        "subtitles": "out/subtitles/2026-07-18-026-gerakan-pilih-adil.srt",
+        "storyboard": "out/storyboards/2026-07-18-026-gerakan-pilih-adil.html",
+        "video": "out/videos/2026-07-18-026-gerakan-pilih-adil.mp4"
+      }
+    },
+    {
+      "id": "2026-07-18-027-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-18",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-18-027-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-18-027-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-18-027-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-18-027-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-18-027-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-19-028-tantangan-7-hari",
+      "title": "Tantangan 7 Hari Naik Pegilagi: Coba tantangan 7 hari naik Pegilagi.",
+      "scheduledDate": "2026-07-19",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-19-028-tantangan-7-hari.json",
+        "script": "out/scripts/2026-07-19-028-tantangan-7-hari.txt",
+        "subtitles": "out/subtitles/2026-07-19-028-tantangan-7-hari.srt",
+        "storyboard": "out/storyboards/2026-07-19-028-tantangan-7-hari.html",
+        "video": "out/videos/2026-07-19-028-tantangan-7-hari.mp4"
+      }
+    },
+    {
+      "id": "2026-07-19-029-mitos-ojol-murah",
+      "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+      "scheduledDate": "2026-07-19",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-19-029-mitos-ojol-murah.json",
+        "script": "out/scripts/2026-07-19-029-mitos-ojol-murah.txt",
+        "subtitles": "out/subtitles/2026-07-19-029-mitos-ojol-murah.srt",
+        "storyboard": "out/storyboards/2026-07-19-029-mitos-ojol-murah.html",
+        "video": "out/videos/2026-07-19-029-mitos-ojol-murah.mp4"
+      }
+    },
+    {
+      "id": "2026-07-19-030-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-19",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-19-030-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-19-030-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-19-030-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-19-030-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-19-030-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-20-031-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-20",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-20-031-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-20-031-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-20-031-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-20-031-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-20-031-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-20-032-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-20",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-20-032-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-20-032-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-20-032-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-20-032-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-20-032-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-20-033-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-20",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-20-033-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-20-033-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-20-033-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-20-033-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-20-033-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-21-034-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-21",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-21-034-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-21-034-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-21-034-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-21-034-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-21-034-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-21-035-cerita-jalanan-indonesia",
+      "title": "Cerita Jalanan Indonesia: Hujan turun, jalan padat, order kecil tetap diambil.",
+      "scheduledDate": "2026-07-21",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-21-035-cerita-jalanan-indonesia.json",
+        "script": "out/scripts/2026-07-21-035-cerita-jalanan-indonesia.txt",
+        "subtitles": "out/subtitles/2026-07-21-035-cerita-jalanan-indonesia.srt",
+        "storyboard": "out/storyboards/2026-07-21-035-cerita-jalanan-indonesia.html",
+        "video": "out/videos/2026-07-21-035-cerita-jalanan-indonesia.mp4"
+      }
+    },
+    {
+      "id": "2026-07-21-036-gerakan-pilih-adil",
+      "title": "Gerakan Pilih Adil: Ini bukan soal melawan siapa-siapa.",
+      "scheduledDate": "2026-07-21",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-21-036-gerakan-pilih-adil.json",
+        "script": "out/scripts/2026-07-21-036-gerakan-pilih-adil.txt",
+        "subtitles": "out/subtitles/2026-07-21-036-gerakan-pilih-adil.srt",
+        "storyboard": "out/storyboards/2026-07-21-036-gerakan-pilih-adil.html",
+        "video": "out/videos/2026-07-21-036-gerakan-pilih-adil.mp4"
+      }
+    },
+    {
+      "id": "2026-07-22-037-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-22",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-22-037-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-22-037-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-22-037-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-22-037-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-22-037-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-22-038-tantangan-7-hari",
+      "title": "Tantangan 7 Hari Naik Pegilagi: Coba tantangan 7 hari naik Pegilagi.",
+      "scheduledDate": "2026-07-22",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-22-038-tantangan-7-hari.json",
+        "script": "out/scripts/2026-07-22-038-tantangan-7-hari.txt",
+        "subtitles": "out/subtitles/2026-07-22-038-tantangan-7-hari.srt",
+        "storyboard": "out/storyboards/2026-07-22-038-tantangan-7-hari.html",
+        "video": "out/videos/2026-07-22-038-tantangan-7-hari.mp4"
+      }
+    },
+    {
+      "id": "2026-07-22-039-mitos-ojol-murah",
+      "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+      "scheduledDate": "2026-07-22",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-22-039-mitos-ojol-murah.json",
+        "script": "out/scripts/2026-07-22-039-mitos-ojol-murah.txt",
+        "subtitles": "out/subtitles/2026-07-22-039-mitos-ojol-murah.srt",
+        "storyboard": "out/storyboards/2026-07-22-039-mitos-ojol-murah.html",
+        "video": "out/videos/2026-07-22-039-mitos-ojol-murah.mp4"
+      }
+    },
+    {
+      "id": "2026-07-23-040-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-23",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-23-040-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-23-040-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-23-040-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-23-040-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-23-040-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-23-041-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-23",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-23-041-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-23-041-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-23-041-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-23-041-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-23-041-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-23-042-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-23",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-23-042-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-23-042-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-23-042-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-23-042-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-23-042-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-24-043-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-24",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-24-043-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-24-043-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-24-043-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-24-043-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-24-043-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-24-044-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-24",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-24-044-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-24-044-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-24-044-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-24-044-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-24-044-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-24-045-cerita-jalanan-indonesia",
+      "title": "Cerita Jalanan Indonesia: Hujan turun, jalan padat, order kecil tetap diambil.",
+      "scheduledDate": "2026-07-24",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-24-045-cerita-jalanan-indonesia.json",
+        "script": "out/scripts/2026-07-24-045-cerita-jalanan-indonesia.txt",
+        "subtitles": "out/subtitles/2026-07-24-045-cerita-jalanan-indonesia.srt",
+        "storyboard": "out/storyboards/2026-07-24-045-cerita-jalanan-indonesia.html",
+        "video": "out/videos/2026-07-24-045-cerita-jalanan-indonesia.mp4"
+      }
+    },
+    {
+      "id": "2026-07-25-046-gerakan-pilih-adil",
+      "title": "Gerakan Pilih Adil: Ini bukan soal melawan siapa-siapa.",
+      "scheduledDate": "2026-07-25",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-25-046-gerakan-pilih-adil.json",
+        "script": "out/scripts/2026-07-25-046-gerakan-pilih-adil.txt",
+        "subtitles": "out/subtitles/2026-07-25-046-gerakan-pilih-adil.srt",
+        "storyboard": "out/storyboards/2026-07-25-046-gerakan-pilih-adil.html",
+        "video": "out/videos/2026-07-25-046-gerakan-pilih-adil.mp4"
+      }
+    },
+    {
+      "id": "2026-07-25-047-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-25",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-25-047-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-25-047-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-25-047-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-25-047-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-25-047-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-25-048-tantangan-7-hari",
+      "title": "Tantangan 7 Hari Naik Pegilagi: Coba tantangan 7 hari naik Pegilagi.",
+      "scheduledDate": "2026-07-25",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-25-048-tantangan-7-hari.json",
+        "script": "out/scripts/2026-07-25-048-tantangan-7-hari.txt",
+        "subtitles": "out/subtitles/2026-07-25-048-tantangan-7-hari.srt",
+        "storyboard": "out/storyboards/2026-07-25-048-tantangan-7-hari.html",
+        "video": "out/videos/2026-07-25-048-tantangan-7-hari.mp4"
+      }
+    },
+    {
+      "id": "2026-07-26-049-mitos-ojol-murah",
+      "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+      "scheduledDate": "2026-07-26",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-26-049-mitos-ojol-murah.json",
+        "script": "out/scripts/2026-07-26-049-mitos-ojol-murah.txt",
+        "subtitles": "out/subtitles/2026-07-26-049-mitos-ojol-murah.srt",
+        "storyboard": "out/storyboards/2026-07-26-049-mitos-ojol-murah.html",
+        "video": "out/videos/2026-07-26-049-mitos-ojol-murah.mp4"
+      }
+    },
+    {
+      "id": "2026-07-26-050-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-26",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-26-050-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-26-050-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-26-050-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-26-050-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-26-050-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-26-051-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-26",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-26-051-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-26-051-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-26-051-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-26-051-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-26-051-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-27-052-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-27",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-27-052-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-27-052-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-27-052-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-27-052-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-27-052-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-27-053-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-27",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-27-053-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-27-053-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-27-053-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-27-053-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-27-053-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-27-054-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-27",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-27-054-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-27-054-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-27-054-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-27-054-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-27-054-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-28-055-cerita-jalanan-indonesia",
+      "title": "Cerita Jalanan Indonesia: Hujan turun, jalan padat, order kecil tetap diambil.",
+      "scheduledDate": "2026-07-28",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-28-055-cerita-jalanan-indonesia.json",
+        "script": "out/scripts/2026-07-28-055-cerita-jalanan-indonesia.txt",
+        "subtitles": "out/subtitles/2026-07-28-055-cerita-jalanan-indonesia.srt",
+        "storyboard": "out/storyboards/2026-07-28-055-cerita-jalanan-indonesia.html",
+        "video": "out/videos/2026-07-28-055-cerita-jalanan-indonesia.mp4"
+      }
+    },
+    {
+      "id": "2026-07-28-056-gerakan-pilih-adil",
+      "title": "Gerakan Pilih Adil: Ini bukan soal melawan siapa-siapa.",
+      "scheduledDate": "2026-07-28",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-28-056-gerakan-pilih-adil.json",
+        "script": "out/scripts/2026-07-28-056-gerakan-pilih-adil.txt",
+        "subtitles": "out/subtitles/2026-07-28-056-gerakan-pilih-adil.srt",
+        "storyboard": "out/storyboards/2026-07-28-056-gerakan-pilih-adil.html",
+        "video": "out/videos/2026-07-28-056-gerakan-pilih-adil.mp4"
+      }
+    },
+    {
+      "id": "2026-07-28-057-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-28",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-28-057-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-28-057-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-28-057-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-28-057-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-28-057-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-29-058-tantangan-7-hari",
+      "title": "Tantangan 7 Hari Naik Pegilagi: Coba tantangan 7 hari naik Pegilagi.",
+      "scheduledDate": "2026-07-29",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-29-058-tantangan-7-hari.json",
+        "script": "out/scripts/2026-07-29-058-tantangan-7-hari.txt",
+        "subtitles": "out/subtitles/2026-07-29-058-tantangan-7-hari.srt",
+        "storyboard": "out/storyboards/2026-07-29-058-tantangan-7-hari.html",
+        "video": "out/videos/2026-07-29-058-tantangan-7-hari.mp4"
+      }
+    },
+    {
+      "id": "2026-07-29-059-mitos-ojol-murah",
+      "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+      "scheduledDate": "2026-07-29",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-29-059-mitos-ojol-murah.json",
+        "script": "out/scripts/2026-07-29-059-mitos-ojol-murah.txt",
+        "subtitles": "out/subtitles/2026-07-29-059-mitos-ojol-murah.srt",
+        "storyboard": "out/storyboards/2026-07-29-059-mitos-ojol-murah.html",
+        "video": "out/videos/2026-07-29-059-mitos-ojol-murah.mp4"
+      }
+    },
+    {
+      "id": "2026-07-29-060-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-29",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-29-060-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-29-060-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-29-060-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-29-060-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-29-060-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-30-061-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-30",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-30-061-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-30-061-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-30-061-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-30-061-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-30-061-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-30-062-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-07-30",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-30-062-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-07-30-062-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-07-30-062-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-07-30-062-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-07-30-062-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-07-30-063-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-07-30",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-30-063-ojol-dapat-100.json",
+        "script": "out/scripts/2026-07-30-063-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-07-30-063-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-07-30-063-ojol-dapat-100.html",
+        "video": "out/videos/2026-07-30-063-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-07-31-064-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-07-31",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-31-064-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-07-31-064-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-07-31-064-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-07-31-064-uangmu-ke-mana.html",
+        "video": "out/videos/2026-07-31-064-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-07-31-065-cerita-jalanan-indonesia",
+      "title": "Cerita Jalanan Indonesia: Hujan turun, jalan padat, order kecil tetap diambil.",
+      "scheduledDate": "2026-07-31",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-31-065-cerita-jalanan-indonesia.json",
+        "script": "out/scripts/2026-07-31-065-cerita-jalanan-indonesia.txt",
+        "subtitles": "out/subtitles/2026-07-31-065-cerita-jalanan-indonesia.srt",
+        "storyboard": "out/storyboards/2026-07-31-065-cerita-jalanan-indonesia.html",
+        "video": "out/videos/2026-07-31-065-cerita-jalanan-indonesia.mp4"
+      }
+    },
+    {
+      "id": "2026-07-31-066-gerakan-pilih-adil",
+      "title": "Gerakan Pilih Adil: Ini bukan soal melawan siapa-siapa.",
+      "scheduledDate": "2026-07-31",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-07-31-066-gerakan-pilih-adil.json",
+        "script": "out/scripts/2026-07-31-066-gerakan-pilih-adil.txt",
+        "subtitles": "out/subtitles/2026-07-31-066-gerakan-pilih-adil.srt",
+        "storyboard": "out/storyboards/2026-07-31-066-gerakan-pilih-adil.html",
+        "video": "out/videos/2026-07-31-066-gerakan-pilih-adil.mp4"
+      }
+    },
+    {
+      "id": "2026-08-01-067-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-08-01",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-01-067-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-08-01-067-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-08-01-067-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-08-01-067-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-08-01-067-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-08-01-068-tantangan-7-hari",
+      "title": "Tantangan 7 Hari Naik Pegilagi: Coba tantangan 7 hari naik Pegilagi.",
+      "scheduledDate": "2026-08-01",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-01-068-tantangan-7-hari.json",
+        "script": "out/scripts/2026-08-01-068-tantangan-7-hari.txt",
+        "subtitles": "out/subtitles/2026-08-01-068-tantangan-7-hari.srt",
+        "storyboard": "out/storyboards/2026-08-01-068-tantangan-7-hari.html",
+        "video": "out/videos/2026-08-01-068-tantangan-7-hari.mp4"
+      }
+    },
+    {
+      "id": "2026-08-01-069-mitos-ojol-murah",
+      "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+      "scheduledDate": "2026-08-01",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-01-069-mitos-ojol-murah.json",
+        "script": "out/scripts/2026-08-01-069-mitos-ojol-murah.txt",
+        "subtitles": "out/subtitles/2026-08-01-069-mitos-ojol-murah.srt",
+        "storyboard": "out/storyboards/2026-08-01-069-mitos-ojol-murah.html",
+        "video": "out/videos/2026-08-01-069-mitos-ojol-murah.mp4"
+      }
+    },
+    {
+      "id": "2026-08-02-070-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-08-02",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-02-070-ojol-dapat-100.json",
+        "script": "out/scripts/2026-08-02-070-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-08-02-070-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-08-02-070-ojol-dapat-100.html",
+        "video": "out/videos/2026-08-02-070-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-08-02-071-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-08-02",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-02-071-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-08-02-071-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-08-02-071-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-08-02-071-uangmu-ke-mana.html",
+        "video": "out/videos/2026-08-02-071-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-08-02-072-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-08-02",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-02-072-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-08-02-072-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-08-02-072-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-08-02-072-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-08-02-072-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-08-03-073-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-08-03",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-03-073-ojol-dapat-100.json",
+        "script": "out/scripts/2026-08-03-073-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-08-03-073-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-08-03-073-ojol-dapat-100.html",
+        "video": "out/videos/2026-08-03-073-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-08-03-074-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-08-03",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-03-074-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-08-03-074-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-08-03-074-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-08-03-074-uangmu-ke-mana.html",
+        "video": "out/videos/2026-08-03-074-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-08-03-075-cerita-jalanan-indonesia",
+      "title": "Cerita Jalanan Indonesia: Hujan turun, jalan padat, order kecil tetap diambil.",
+      "scheduledDate": "2026-08-03",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-03-075-cerita-jalanan-indonesia.json",
+        "script": "out/scripts/2026-08-03-075-cerita-jalanan-indonesia.txt",
+        "subtitles": "out/subtitles/2026-08-03-075-cerita-jalanan-indonesia.srt",
+        "storyboard": "out/storyboards/2026-08-03-075-cerita-jalanan-indonesia.html",
+        "video": "out/videos/2026-08-03-075-cerita-jalanan-indonesia.mp4"
+      }
+    },
+    {
+      "id": "2026-08-04-076-gerakan-pilih-adil",
+      "title": "Gerakan Pilih Adil: Ini bukan soal melawan siapa-siapa.",
+      "scheduledDate": "2026-08-04",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-04-076-gerakan-pilih-adil.json",
+        "script": "out/scripts/2026-08-04-076-gerakan-pilih-adil.txt",
+        "subtitles": "out/subtitles/2026-08-04-076-gerakan-pilih-adil.srt",
+        "storyboard": "out/storyboards/2026-08-04-076-gerakan-pilih-adil.html",
+        "video": "out/videos/2026-08-04-076-gerakan-pilih-adil.mp4"
+      }
+    },
+    {
+      "id": "2026-08-04-077-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-08-04",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-04-077-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-08-04-077-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-08-04-077-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-08-04-077-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-08-04-077-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-08-04-078-tantangan-7-hari",
+      "title": "Tantangan 7 Hari Naik Pegilagi: Coba tantangan 7 hari naik Pegilagi.",
+      "scheduledDate": "2026-08-04",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-04-078-tantangan-7-hari.json",
+        "script": "out/scripts/2026-08-04-078-tantangan-7-hari.txt",
+        "subtitles": "out/subtitles/2026-08-04-078-tantangan-7-hari.srt",
+        "storyboard": "out/storyboards/2026-08-04-078-tantangan-7-hari.html",
+        "video": "out/videos/2026-08-04-078-tantangan-7-hari.mp4"
+      }
+    },
+    {
+      "id": "2026-08-05-079-mitos-ojol-murah",
+      "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+      "scheduledDate": "2026-08-05",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-05-079-mitos-ojol-murah.json",
+        "script": "out/scripts/2026-08-05-079-mitos-ojol-murah.txt",
+        "subtitles": "out/subtitles/2026-08-05-079-mitos-ojol-murah.srt",
+        "storyboard": "out/storyboards/2026-08-05-079-mitos-ojol-murah.html",
+        "video": "out/videos/2026-08-05-079-mitos-ojol-murah.mp4"
+      }
+    },
+    {
+      "id": "2026-08-05-080-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-08-05",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-05-080-ojol-dapat-100.json",
+        "script": "out/scripts/2026-08-05-080-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-08-05-080-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-08-05-080-ojol-dapat-100.html",
+        "video": "out/videos/2026-08-05-080-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-08-05-081-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-08-05",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-05-081-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-08-05-081-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-08-05-081-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-08-05-081-uangmu-ke-mana.html",
+        "video": "out/videos/2026-08-05-081-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-08-06-082-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-08-06",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-06-082-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-08-06-082-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-08-06-082-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-08-06-082-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-08-06-082-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-08-06-083-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-08-06",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-06-083-ojol-dapat-100.json",
+        "script": "out/scripts/2026-08-06-083-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-08-06-083-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-08-06-083-ojol-dapat-100.html",
+        "video": "out/videos/2026-08-06-083-ojol-dapat-100.mp4"
+      }
+    },
+    {
+      "id": "2026-08-06-084-uangmu-ke-mana",
+      "title": "Uangmu Ke Mana?: Pernah mikir uang ongkos kamu larinya ke mana?",
+      "scheduledDate": "2026-08-06",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-06-084-uangmu-ke-mana.json",
+        "script": "out/scripts/2026-08-06-084-uangmu-ke-mana.txt",
+        "subtitles": "out/subtitles/2026-08-06-084-uangmu-ke-mana.srt",
+        "storyboard": "out/storyboards/2026-08-06-084-uangmu-ke-mana.html",
+        "video": "out/videos/2026-08-06-084-uangmu-ke-mana.mp4"
+      }
+    },
+    {
+      "id": "2026-08-07-085-cerita-jalanan-indonesia",
+      "title": "Cerita Jalanan Indonesia: Hujan turun, jalan padat, order kecil tetap diambil.",
+      "scheduledDate": "2026-08-07",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-07-085-cerita-jalanan-indonesia.json",
+        "script": "out/scripts/2026-08-07-085-cerita-jalanan-indonesia.txt",
+        "subtitles": "out/subtitles/2026-08-07-085-cerita-jalanan-indonesia.srt",
+        "storyboard": "out/storyboards/2026-08-07-085-cerita-jalanan-indonesia.html",
+        "video": "out/videos/2026-08-07-085-cerita-jalanan-indonesia.mp4"
+      }
+    },
+    {
+      "id": "2026-08-07-086-gerakan-pilih-adil",
+      "title": "Gerakan Pilih Adil: Ini bukan soal melawan siapa-siapa.",
+      "scheduledDate": "2026-08-07",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-07-086-gerakan-pilih-adil.json",
+        "script": "out/scripts/2026-08-07-086-gerakan-pilih-adil.txt",
+        "subtitles": "out/subtitles/2026-08-07-086-gerakan-pilih-adil.srt",
+        "storyboard": "out/storyboards/2026-08-07-086-gerakan-pilih-adil.html",
+        "video": "out/videos/2026-08-07-086-gerakan-pilih-adil.mp4"
+      }
+    },
+    {
+      "id": "2026-08-07-087-lebih-murah-tanpa-jahat",
+      "title": "Lebih Murah Tanpa Jahat: Murah itu enak. Tapi murah yang adil itu lebih enak.",
+      "scheduledDate": "2026-08-07",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-07-087-lebih-murah-tanpa-jahat.json",
+        "script": "out/scripts/2026-08-07-087-lebih-murah-tanpa-jahat.txt",
+        "subtitles": "out/subtitles/2026-08-07-087-lebih-murah-tanpa-jahat.srt",
+        "storyboard": "out/storyboards/2026-08-07-087-lebih-murah-tanpa-jahat.html",
+        "video": "out/videos/2026-08-07-087-lebih-murah-tanpa-jahat.mp4"
+      }
+    },
+    {
+      "id": "2026-08-08-088-tantangan-7-hari",
+      "title": "Tantangan 7 Hari Naik Pegilagi: Coba tantangan 7 hari naik Pegilagi.",
+      "scheduledDate": "2026-08-08",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-08-088-tantangan-7-hari.json",
+        "script": "out/scripts/2026-08-08-088-tantangan-7-hari.txt",
+        "subtitles": "out/subtitles/2026-08-08-088-tantangan-7-hari.srt",
+        "storyboard": "out/storyboards/2026-08-08-088-tantangan-7-hari.html",
+        "video": "out/videos/2026-08-08-088-tantangan-7-hari.mp4"
+      }
+    },
+    {
+      "id": "2026-08-08-089-mitos-ojol-murah",
+      "title": "Mitos Ojol Murah: Mitos: ojek online murah pasti bikin driver tekor.",
+      "scheduledDate": "2026-08-08",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-08-089-mitos-ojol-murah.json",
+        "script": "out/scripts/2026-08-08-089-mitos-ojol-murah.txt",
+        "subtitles": "out/subtitles/2026-08-08-089-mitos-ojol-murah.srt",
+        "storyboard": "out/storyboards/2026-08-08-089-mitos-ojol-murah.html",
+        "video": "out/videos/2026-08-08-089-mitos-ojol-murah.mp4"
+      }
+    },
+    {
+      "id": "2026-08-08-090-ojol-dapat-100",
+      "title": "Ojol Dapat 100%: Buat sebagian orang, satu order cuma angka kecil.",
+      "scheduledDate": "2026-08-08",
+      "status": "needs_approval",
+      "channels": [
+        "tiktok",
+        "instagram_reels",
+        "youtube_shorts"
+      ],
+      "files": {
+        "metadata": "out/content/2026-08-08-090-ojol-dapat-100.json",
+        "script": "out/scripts/2026-08-08-090-ojol-dapat-100.txt",
+        "subtitles": "out/subtitles/2026-08-08-090-ojol-dapat-100.srt",
+        "storyboard": "out/storyboards/2026-08-08-090-ojol-dapat-100.html",
+        "video": "out/videos/2026-08-08-090-ojol-dapat-100.mp4"
+      }
+    }
+  ]
+}
