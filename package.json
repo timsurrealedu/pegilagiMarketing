@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "studio": "node src/cli.js",
+    "render-next": "node src/cli.js render-next",
     "test": "node --test"
   },
   "bin": {

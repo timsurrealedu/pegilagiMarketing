@@ -4,6 +4,7 @@ import path from "node:path";
 import test from "node:test";
 import assert from "node:assert/strict";
 import { exportLifeOS, generateBatch, generateSchedule, validateAll } from "../src/studio.js";
+import { buildRenderPlan } from "../src/render.js";
 
 test("generateBatch creates safe content assets", async () => {
   const dir = await tempDir();
@@ -43,6 +44,20 @@ test("exportLifeOS contains calendar and approval queue", async () => {
   } finally {
     await rm(dir, { recursive: true, force: true });
   }
+});
+
+test("buildRenderPlan uses official Pegilagi website assets", () => {
+  const plan = buildRenderPlan({
+    id: "demo",
+    assets: {
+      voiceover: "out/audio/demo.wav",
+      video: "out/videos/demo.mp4"
+    }
+  });
+  assert.equal(plan.source, "https://pegilagi.com/");
+  assert.equal(plan.aspectRatio, "9:16");
+  assert.ok(plan.overlays.some((asset) => asset.includes("logo-circle.png")));
+  assert.ok(plan.overlays.some((asset) => asset.includes("pegi.svg")));
 });
 
 async function tempDir() {

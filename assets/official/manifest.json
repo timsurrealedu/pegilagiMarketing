@@ -1,0 +1,18 @@
+{
+  "source": "https://pegilagi.com/",
+  "fetchedAt": "2026-07-10",
+  "brand": {
+    "name": "PegiLagi",
+    "red": "#F62828",
+    "black": "#1A1A1A",
+    "white": "#FFFFFF",
+    "fontHeading": "Poppins",
+    "fontBody": "Inter"
+  },
+  "files": {
+    "logo": "assets/official/logo-circle.png",
+    "appSlide": "assets/official/app-slide-1.jpg",
+    "featureMurah": "assets/official/feature-murah.png",
+    "pegiJekIcon": "assets/official/icon-pegijek.png"
+  }
+}

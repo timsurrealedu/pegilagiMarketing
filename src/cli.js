@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import { createVariants, exportLifeOS, generateBatch, generateSchedule, validateAll } from "./studio.js";
+import { buildRenderPlan, renderItem, renderNext } from "./render.js";
 
 const [command = "help", ...args] = process.argv.slice(2);
 const opts = parseArgs(args);
@@ -22,8 +23,18 @@ try {
     const failed = results.filter((result) => !result.ok);
     console.log(JSON.stringify({ ok: failed.length === 0, failed }, null, 2));
     process.exitCode = failed.length === 0 ? 0 : 1;
+  } else if (command === "render") {
+    if (!opts.id) throw new Error("render requires --id <content-id>");
+    const item = await renderItem({ id: opts.id });
+    console.log(`Rendered ${item.assets.video}`);
+  } else if (command === "render-next") {
+    const item = await renderNext();
+    console.log(`Rendered ${item.assets.video}`);
+  } else if (command === "render-plan") {
+    if (!opts.id) throw new Error("render-plan requires --id <content-id>");
+    console.log(JSON.stringify(buildRenderPlan({ id: opts.id, assets: { voiceover: `out/audio/${opts.id}.wav`, video: `out/videos/${opts.id}.mp4` } }), null, 2));
   } else {
-    console.log("Usage: npm run studio -- <generate|schedule|variants|export-lifeos|safety> [--count 10] [--days 30] [--per-day 3]");
+    console.log("Usage: npm run studio -- <generate|schedule|variants|export-lifeos|safety|render|render-next> [--count 10] [--days 30] [--per-day 3] [--id content-id]");
   }
 } catch (error) {
   console.error(error.message);
