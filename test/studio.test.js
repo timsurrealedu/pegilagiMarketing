@@ -5,6 +5,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { exportLifeOS, generateBatch, generateSchedule, validateAll } from "../src/studio.js";
 import { buildRenderPlan } from "../src/render.js";
+import { buildConcatRows } from "../src/tts.js";
 
 test("generateBatch creates safe content assets", async () => {
   const dir = await tempDir();
@@ -58,6 +59,11 @@ test("buildRenderPlan uses official Pegilagi website assets", () => {
   assert.equal(plan.aspectRatio, "9:16");
   assert.ok(plan.overlays.some((asset) => asset.includes("logo-circle.png")));
   assert.ok(plan.overlays.some((asset) => asset.includes("pegi.svg")));
+});
+
+test("buildConcatRows writes absolute paths for ffmpeg concat files", () => {
+  const rows = buildConcatRows([{ wav: "out/render-work/demo/line_01.wav" }], "out/render-work/demo/gap.wav");
+  assert.match(rows[0], /^file '([A-Za-z]:\/|\/)/);
 });
 
 async function tempDir() {

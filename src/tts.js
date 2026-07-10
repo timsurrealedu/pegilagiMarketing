@@ -40,15 +40,20 @@ export async function buildVoiceTrack(clips, workDir) {
   const silence = path.join(workDir, "gap.wav");
   await synthesizeSilence(silence, 0.18);
   const concat = path.join(workDir, "concat.txt");
-  const rows = [];
-  clips.forEach((clip, index) => {
-    rows.push(`file '${slash(clip.wav)}'`);
-    if (index < clips.length - 1) rows.push(`file '${slash(silence)}'`);
-  });
+  const rows = buildConcatRows(clips, silence);
   await writeFile(concat, `${rows.join("\n")}\n`, "utf8");
   const voice = path.join(workDir, "voice.wav");
   await run(ffmpeg, ["-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", concat, "-c", "copy", voice]);
   return voice;
+}
+
+export function buildConcatRows(clips, silence) {
+  const rows = [];
+  clips.forEach((clip, index) => {
+    rows.push(`file '${slash(path.resolve(clip.wav))}'`);
+    if (index < clips.length - 1) rows.push(`file '${slash(path.resolve(silence))}'`);
+  });
+  return rows;
 }
 
 async function synthesizeSilence(out, seconds) {
